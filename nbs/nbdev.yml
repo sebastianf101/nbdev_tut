@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tut"
+  site-url: "https://sebastianf101.github.io/nbdev_tut"
+  description: "Primera prueba de nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/sebastianf101/nbdev_tut"
