@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://sebastianf101.github.io',
                 'git_url': 'https://github.com/sebastianf101/nbdev_tut',
                 'lib_path': 'nbdev_tut'},
-  'syms': {'nbdev_tut.core': {'nbdev_tut.core.foo': ('core.html#foo', 'nbdev_tut/core.py')}}}
+  'syms': { 'nbdev_tut.mis_funciones': { 'nbdev_tut.mis_funciones.foo': ('ejedic.html#foo', 'nbdev_tut/mis_funciones.py'),
+                                         'nbdev_tut.mis_funciones.say_hello': ('ejedic.html#say_hello', 'nbdev_tut/mis_funciones.py')},
+            'nbdev_tut.nbdev_tut': { 'nbdev_tut.nbdev_tut.foo': ('ejedic.html#foo', 'nbdev_tut/nbdev_tut.py'),
+                                     'nbdev_tut.nbdev_tut.say_hello': ('ejedic.html#say_hello', 'nbdev_tut/nbdev_tut.py')}}}
