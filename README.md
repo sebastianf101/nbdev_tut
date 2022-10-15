@@ -15,6 +15,8 @@ Readme.
 say_hello("Jorgito")
 ```
 
+    'Hola querido Jorgito!'
+
 ## Install
 
 ``` sh
@@ -29,4 +31,4 @@ Fill me in please! Don’t forget code examples:
 say_hello("Pablito")
 ```
 
-    2
+    'Hola querido Pablito!'
