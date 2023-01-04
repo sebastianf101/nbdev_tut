@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_tut",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.\nEsta línea es otra celda que quiero que salga en el Readme\nAbajo pongo una línea de código que también quiero que figure en el Readme."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_tut",
+    "section": "Install",
+    "text": "Install\npip install nbdev_tut"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_tut",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nsay_hello(\"Pablito\")\n\n'Hola querido Pablito!'"
+  },
+  {
+    "objectID": "ejedic.html",
+    "href": "ejedic.html",
+    "title": "Aquí va el Título",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nsay_hello\n\n say_hello (to)\n\nSaludar al parámetro\n\nsay_hello(\"Sebastián\")\n\n'Hola querido Sebastián!'\n\n\n\nassert say_hello(\"Pablito\")==\"Hola querido Pablito!\"\n\n\ntest_eq(say_hello(\"Pablito\"), \"Hola querido Pablito!\")\n\n\nEjemplo de Círculo SVG\n\ndisplay(SVG('<svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"40\"/></svg>'))"
+  }
+]
