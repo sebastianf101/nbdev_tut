@@ -4,6 +4,8 @@
 ### <<< Jupyter Lab Startup
 ### Jupyter Lab in dev-tut environ
 eval "$(command conda 'shell.bash' 'hook' 2> /dev/null)"
+## lugar del tutorial nbdev
+cd ~/nbdev/nbdev_tut
 # Activo el entorno fastai
 conda activate fastai
 ### Needed for jupyter-git extension
